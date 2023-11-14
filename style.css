@@ -1972,7 +1972,7 @@ input{
     
     .main__mobile__fifthline__info__item__text{
         
-        margin-top: -44px;
+        margin-top: -39px;
         display: flex;
         flex-direction: column;
     
@@ -1991,6 +1991,14 @@ input{
         margin-top: 2px;
         
     }
+    .main__mobile__fifthline__info__item__img{
+        margin-top: 2px;
+        background: url('./svg/Group 661.svg');
+        background-size: cover;
+        height: 210px;
+        width: 100%;
+        
+    }
     .main__mobile__fifthline__info__item__text__date__text{
         color: var(--ffffff, #FFF);
         font-size: 12px;
@@ -2007,11 +2015,8 @@ input{
         gap: 7px;
         background: var(--ffffff, #FFF);
         padding: 20px;
-        
-        
-        
-        
-    
+        margin: 0 auto;
+        width: 89%;
     }
     
     .main__mobile__fifthline__info__item__text__text__head{
@@ -2021,7 +2026,7 @@ input{
         font-style: normal;
         font-weight: 600;
         line-height: 24px; /* 133.333% */
-
+        margin: 0 auto;
     }
     
     .main__mobile__fifthline__info__item__text__text__maintext{
