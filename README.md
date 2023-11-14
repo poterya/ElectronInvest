@@ -1,5 +1,5 @@
-# ElectronInvest
-Desktop version:
+## ElectronInvest
+# Desktop version:
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/4fc9c4e5-afee-4649-a5bc-e3fd184db99c)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/96602124-e1ec-4719-aff4-f3ce6fde3246)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/56c74235-d740-460d-8bf1-36fa2bbd6558)
@@ -7,13 +7,13 @@ Desktop version:
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/87eac468-5a33-4a4b-b102-080a8227e661)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/5756fc9b-ef43-43a4-beec-c506c705c08e)
 
-Laptop version:
+# Laptop version: 
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/ec9cad26-ced0-4d04-829b-78a07260f4b7)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/38fc8bd6-4599-4d5d-8f8b-1c0a0f6ea5ba)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/16f45654-17e1-4002-bb26-af87613f3d93)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/1fa0558f-11e4-4d6d-b99d-15b2dbfbd26a)
 
-Mobile version:
+# Mobile version:
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/f2a96326-530b-42c6-900f-c721befbc8d3)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/0226d271-812b-4995-beef-fa87bd920e86)
 ![image](https://github.com/poterya/ElectronInvest/assets/115491859/fbc47909-3360-4fcb-a3e9-fd561911839a)
